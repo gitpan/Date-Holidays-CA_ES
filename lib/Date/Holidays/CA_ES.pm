@@ -1,4 +1,7 @@
 package Date::Holidays::CA_ES;
+{
+  $Date::Holidays::CA_ES::VERSION = '0.03';
+}
 
 use strict;
 use warnings;

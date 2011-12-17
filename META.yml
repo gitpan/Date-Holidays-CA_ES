@@ -17,5 +17,6 @@ requires:
   Date::Holidays::ES: 0.02
 resources:
   bugtracker: https://github.com/miquelruiz/Date-Holidays-CA_ES/issues
+  homepage: http://metacpan.org/release/Date-Holidays-CA_ES/
   repository: git://github.com/miquelruiz/Date-Holidays-CA_ES.git
-version: 0.02
+version: 0.03
